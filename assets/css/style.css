@@ -17,6 +17,13 @@
 .text-color-secondary {
   color: #555c66;
 }
+.text-color-head{
+  color:#bad5fd;
+  
+}
+.text-color-blue{
+  color: #5598f9;
+}
 .text-center {
   text-align: center;
 }
@@ -54,6 +61,12 @@
 
 .font-size-1 {
   font-size: 1.5rem;
+}
+.font-size-normal{
+  font-size: 1.25rem;
+}
+.font-size-2{
+  font-size:2.5rem;
 }
 .font-size-4 {
   font-size: 4.5rem;
@@ -125,7 +138,7 @@
 /*phone-image-section*/
 
 .left-photo-section {
-  background-color: #e4eaf1;
+  background-color: #f3f2f2;
   width: 50%;
 }
 
@@ -149,3 +162,62 @@
 .para-content-1 {
   margin: 2rem 11rem;
 }
+/*comment page*/
+.comment-page{
+  background-color: #5598f9;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+  
+}
+.girl{
+   border-radius: 50%;
+   border: #ffffff .5rem solid;
+}
+.para-content-2{
+  font-size: 1.25rem;
+  padding: 0 11rem;
+}
+.para-girl{
+  margin-top:-2.25rem;
+}
+/*service section*/
+/*service-top*/
+.service-section{
+  background-color: #f2f2f2;
+}
+
+.service-top-left{
+  margin-left: 9rem;
+}
+.service-top-section{
+  display:flex;
+  gap:3rem;
+}
+.para-service{
+  font-size: 1.2rem;
+    margin: 10rem 3rem 4rem;
+    line-height: 2.25rem;
+}
+.service-h5{
+  margin-top: 5rem;
+  font-size: 1.5rem;
+}
+/*service-bottom*/
+
+.service-bottom-section{
+  display:flex;
+  gap:3rem;
+  padding:3rem 6rem;
+}
+.border-box{
+  background-color: white;
+  border-radius: 1rem;
+  
+}
+.box-content{
+  padding: 1rem 2.5rem;
+    line-height: 1.5rem;
+}
+/*key-features-section*/
+
+
